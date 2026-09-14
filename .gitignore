@@ -1,0 +1,30 @@
+﻿# Backend
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.local
+*.log
+
+# Frontend
+node_modules/
+.next/
+out/
+dist/
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
